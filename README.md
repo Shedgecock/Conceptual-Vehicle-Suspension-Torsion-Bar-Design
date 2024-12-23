@@ -2,7 +2,7 @@
 
 **ME 314 Spring 2024 Student Design Project**  
 Department of Mechanical Engineering  
-Author: Sean A Hedgecock  
+Author: Sean A. Hedgecock  
 Professor: Ricardo Ayala  
 
 ## Table of Contents
