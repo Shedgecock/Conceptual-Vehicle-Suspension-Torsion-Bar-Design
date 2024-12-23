@@ -74,6 +74,6 @@ The torsion bar design successfully meets all safety, material, and performance 
 
 ## References
 
-1. Ayala, Richard. ME 314 Lecture Slides.  
+1. Ayala, Ricardo. ME 314 Lecture Slides.  
 2. Beam Calculator for Statically Indeterminate Beams, Optimal Beam.  
 3. Shigley’s Mechanical Engineering Design, 11th Edition.
