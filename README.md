@@ -20,6 +20,8 @@ Professor: Ricardo Ayala
 
 This repository contains the final design and analysis for a conceptual torsion bar, part of a vehicle suspension system, developed as a project for the ME 314 course at SDSU. The design incorporates principles of mechanical engineering, material science, and structural analysis to meet specified safety and performance requirements.
 
+  ![Torsion Bar Detail](https://github.com/user-attachments/assets/2ed66846-645d-4155-bef5-c558a7a257a4)
+
 ---
 
 ## Project Objective
@@ -58,9 +60,21 @@ Key goals include:
 
 The project includes:
 - Shear force and bending moment diagrams
+  
+  ![AxleShear](https://github.com/user-attachments/assets/ad53bfaf-4690-4bc6-a6a4-4a0d4d2d6b05)
+  ![AxleMoment](https://github.com/user-attachments/assets/affff1d4-9b3a-4a0c-81c1-ce10e908626d)
+
 - Fatigue and safety factor assessments
+
+  ![image](https://github.com/user-attachments/assets/312b7a6e-bc62-4f62-90e0-d248a957f406)
+  ![S-N](https://github.com/user-attachments/assets/ca75932a-d71f-46be-917e-8b8dca9c4f95)
+
+
 - Material selection and optimization
-- MATLAB programming for iterative calculations
+
+  ![image](https://github.com/user-attachments/assets/06116932-2055-4b1c-9064-05ea644a7ef4)
+
+- MATLAB programming for iterative calculations (Code attached to Repository)
 
 Comprehensive tables and figures are included in the project report to document loading conditions, stresses, and safety factors.
 
@@ -74,6 +88,6 @@ The torsion bar design successfully meets all safety, material, and performance 
 
 ## References
 
-1. Ayala, Ricardo. ME 314 Lecture Slides.  
-2. Beam Calculator for Statically Indeterminate Beams, Optimal Beam.  
-3. Shigley’s Mechanical Engineering Design, 11th Edition.
+1. Ayala, Ricardo. ME 314 Lecture Slides. 
+2. Shigley’s Mechanical Engineering Design, 11th Edition.
+3. Beam Calculator for Statically Indeterminate Beams, Optimal Beam.
