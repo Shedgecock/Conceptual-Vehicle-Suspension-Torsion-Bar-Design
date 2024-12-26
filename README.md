@@ -20,7 +20,9 @@ Professor: Ricardo Ayala
 
 This repository contains the final design and analysis for a conceptual torsion bar, part of a vehicle suspension system, developed as a project for the ME 314 course at SDSU. The design incorporates principles of mechanical engineering, material science, and structural analysis to meet specified safety and performance requirements.
 
-  ![Torsion Bar Detail](https://github.com/user-attachments/assets/2ed66846-645d-4155-bef5-c558a7a257a4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ed66846-645d-4155-bef5-c558a7a257a4" alt="Torsion Bar Detail" width="700">
+</p>
 
 ---
 
@@ -61,20 +63,32 @@ Key goals include:
 The project includes:
 - Shear force and bending moment diagrams
   
-  ![AxleShear](https://github.com/user-attachments/assets/ad53bfaf-4690-4bc6-a6a4-4a0d4d2d6b05)
-  ![AxleMoment](https://github.com/user-attachments/assets/affff1d4-9b3a-4a0c-81c1-ce10e908626d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad53bfaf-4690-4bc6-a6a4-4a0d4d2d6b05" alt="Axle Shear" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/affff1d4-9b3a-4a0c-81c1-ce10e908626d" alt="Axle Moment" width="400">
+</p>
 
 - Fatigue and safety factor assessments
 
-  ![image](https://github.com/user-attachments/assets/312b7a6e-bc62-4f62-90e0-d248a957f406)
-  ![S-N](https://github.com/user-attachments/assets/ca75932a-d71f-46be-917e-8b8dca9c4f95)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/312b7a6e-bc62-4f62-90e0-d248a957f406" alt="Additional Image 1" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca75932a-d71f-46be-917e-8b8dca9c4f95" alt="S-N Curve" width="400">
+</p>
 
 
 - Material selection and optimization
 
-  ![image](https://github.com/user-attachments/assets/06116932-2055-4b1c-9064-05ea644a7ef4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06116932-2055-4b1c-9064-05ea644a7ef4" alt="Additional Image 2" width="400">
+</p>
 
-- MATLAB programming for iterative calculations (Code attached to Repository)
+- MATLAB programming for iterative calculations
 
 Comprehensive tables and figures are included in the project report to document loading conditions, stresses, and safety factors.
 
