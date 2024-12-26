@@ -89,7 +89,7 @@ The project includes:
 </p>
 
 - **MATLAB programming for iterative calculations**  
-  The provided scripts automate calculations for stress, factor of safety, and fatigue life estimation.
+  The provided scripts automate calculations for shear force and bending moment (SFBM), factor of safety, and fatigue life estimation.
 
 Comprehensive tables and figures are included in the project report to document loading conditions, stresses, and safety factors.
 
