@@ -11,6 +11,7 @@ Professor: Ricardo Ayala
 - [Project Objective](#project-objective)
 - [Key Design Features](#key-design-features)
 - [Analysis and Calculations](#analysis-and-calculations)
+- [Key Takeaways & Skills Demonstrated](#key-takeaways--skills-demonstrated)
 - [Conclusion](#conclusion)
 - [References](#references)
 
@@ -61,8 +62,8 @@ Key goals include:
 ## Analysis and Calculations
 
 The project includes:
-- Shear force and bending moment diagrams
-  
+- **Shear force and bending moment diagrams:**
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad53bfaf-4690-4bc6-a6a4-4a0d4d2d6b05" alt="Axle Shear" width="400">
 </p>
@@ -71,7 +72,7 @@ The project includes:
   <img src="https://github.com/user-attachments/assets/affff1d4-9b3a-4a0c-81c1-ce10e908626d" alt="Axle Moment" width="400">
 </p>
 
-- Fatigue and safety factor assessments
+- **Fatigue and safety factor assessments:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/312b7a6e-bc62-4f62-90e0-d248a957f406" alt="Additional Image 1" width="400">
@@ -81,16 +82,26 @@ The project includes:
   <img src="https://github.com/user-attachments/assets/ca75932a-d71f-46be-917e-8b8dca9c4f95" alt="S-N Curve" width="400">
 </p>
 
-
-- Material selection and optimization
+- **Material selection and optimization:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06116932-2055-4b1c-9064-05ea644a7ef4" alt="Additional Image 2" width="400">
 </p>
 
-- MATLAB programming for iterative calculations
+- **MATLAB programming for iterative calculations**  
+  The provided scripts automate calculations for stress, factor of safety, and fatigue life estimation.
 
 Comprehensive tables and figures are included in the project report to document loading conditions, stresses, and safety factors.
+
+---
+
+## Key Takeaways & Skills Demonstrated
+
+- **Mechanical Design**: Torsion bar engineering for vehicle suspension systems.  
+- **Finite Element & Analytical Analysis**: Fatigue assessment using standard engineering methods (e.g., DE Soderberg).  
+- **MATLAB Scripting**: Data-driven calculations and plotting to verify design feasibility.  
+- **Technical Documentation**: Clear reporting of methods, calculations, and results.  
+- **Project Management**: Demonstrating the ability to take a concept from initial specifications through final design validation.
 
 ---
 
